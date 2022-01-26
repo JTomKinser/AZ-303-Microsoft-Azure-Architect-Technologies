@@ -109,7 +109,7 @@ The main tasks for this exercise are as follows:
      -AsJob
    ```
 
-    > **Note**: Do not wait for the deployment to complete but instead proceed to the next exercise. The deployment should take less than 5 minutes.
+    > **Note**: Wait for the deployment to complete before proceeding. The deployment should take less than 5 minutes.
 
 1. In the Azure portal, close the **Cloud Shell** pane. 
 
